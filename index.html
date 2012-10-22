@@ -1,29 +1,65 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Bill Donner's GitHub Home Page</title>
-<style>
-.ss { display:inline; padding: 20px; }
-.ss img { width:160px; border:none;}
-body {background:black; color:white;}
-a {color:gray; text-decoration:none}
-a.hover {text-decoration: underline}
-</style>
+ 	<meta charset="UTF-8">
+	<title>GitHub</title>
+	
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	
+	<link rel="stylesheet" type="text/css" href="css/style.css">	
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+	<script type="text/javascript" src="js/handlebars.js"></script>
+	<script type="text/javascript" src="js/app.js"></script>
 </head>
 <body>
+<div id="header">
+		<div class="wrap">
+			<h1>GitHub Repos</h1>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-via="benhowdle">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
+	</div>
+	<div id="content" class="wrap">
 
-<h3>Bill Donner's Github Custom Home</h3>
-<p>I have posted source code at <a href='http://github.com/billdonner'>http://github.com/billdonner</a> for a number of different projects I've worked on:
-<ul>
-<li>MedCommons - Cloud Radiology Service <a href='http://www.medcommons.net/'>http://www.medcommons.net</a></li>
-<li>BigStand - Offline Music Browser for Performers <a href='http:/gigstand.net/'>http:/gigstand.net</a></li>
-<li>MartoonsFolio - An Artists Portfolio App <a href='http://www.martoons.com/martoonsfolio/'>http://www.martoons.com/martoonsfolio</a></li>
-</ul>
-</p>
-<p>More to come...</p>
+		<div id="me">
+
+		</div>
+		
+		<div id="repos">
+
+		</div>
+
+	</div>
+	<div id="footer">
+		<div class="wrap">
+			<p><a href="https://twitter.com/#!/benhowdle" target="_blank">Ben Howdle</a> of <a href="http://twostepmedia.co.uk/" target="_blank">Two Step Media</a></p>
+			<p><a href="https://twitter.com/benhowdle" class="twitter-follow-button" data-show-count="false">Follow @benhowdle</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+		</div>
+	</div>
+
+	<script id="repo-template" type="text/x-handlebars-template">
+	{{#this}}
+	<a href="{{url}}" class="repo">
+		<h2>{{name}}</h2>
+		<p class="description">{{description}}</p>
+		<p class="watchers">{{watchers}} watchers</p>
+	</a>
+	{{/this}}
+	</script>
+
+	<script id="me-template" type="text/x-handlebars-template">
+	{{#this}}
+	<a href="{{html_url}}" class="repo">
+		<h2>{{name}}</h2>
+		<img src="{{avatar_url}}" />
+		<p class="watchers">{{repos}} repos</p>
+	</a>
+	{{/this}}
+	</script>
+
 </body>
-<footer>Visit  <a href='http://www.billdonner.com/'>http://www.billdonner.com</a>; visit 
-<a href='http://www.shovelreadyapps.com'>http://www.shovelreadyapps.com</a> for customization services
- </footer>
 </html>
