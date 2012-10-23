@@ -51,7 +51,7 @@ h2 {
 }
 
 .repo {
-	background: #075292;
+	background: #777; /* #075292; */
 	-webkit-border-top-right-radius: 3px;
 	-webkit-border-top-left-radius: 3px;
 	-moz-border-radius-topright: 3px;
