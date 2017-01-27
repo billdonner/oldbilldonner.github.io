@@ -11,9 +11,13 @@ These are currently getting tweaked:
 
 over the air distros:
 -[sheetcheats9](http://billdonner.com/sc9) -musician's sheet music performance
+
 -[kaptionator](http://billdonner.com/kaptionz) imessage sticker maker
+
 -[ckexplorer](http://billdonner.com) cloudkit tvos bridge
+
 -[trumpreport](http://billdonner.com/tr) inspriation from celebrities
+
 -[socialmax](http://billdonner.com/tr) social network statistics
 
 web app servers:
