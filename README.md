@@ -5,8 +5,10 @@ This private project hosts the mini public website at [https://billdonner.github
 
 main web site is [http://billdonner.com](http://billdonner.com)
 
-#2017 projects
--------------
+#####2017 projects 
+
+These are currently getting tweaked:
+
 over the air distros:
 - [sheetcheats9](http://billdonner.com/sc9)
 - [kaptionator](http://billdonner.com/kaptionz)
