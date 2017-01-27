@@ -10,7 +10,8 @@ main web site is [http://billdonner.com](http://billdonner.com)
 These are currently getting tweaked:
 
 over the air distros:
--[sheetcheats9](http://billdonner.com/sc9) -musician's sheet music performance
+
+-[sheetcheats9](http://billdonner.com/sc9) musician's sheet music performance
 
 -[kaptionator](http://billdonner.com/kaptionz) imessage sticker maker
 
@@ -21,8 +22,11 @@ over the air distros:
 -[socialmax](http://billdonner.com/tr) social network statistics
 
 web app servers:
+
 -[blukittests](http://billdonner.com) measure bluemix webservice performance
+
 -[inspiraserver](http://billdonner.com) inspirational quotes webservice
+
 -[iganalserver](http://billdonner.com) analyze instagram statistics
 
 contact: billdonner@mail.com
