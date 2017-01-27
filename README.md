@@ -1,15 +1,15 @@
 Bill's GitHub Stuff
 ===============
 
-This private project hosts the mini public website at [https://billdonner.github.io](https://billdonner.github.io)
+This is the mini public website at [https://github.com/billdonner](https://github.com/billdonner)
 
-main web site is [http://billdonner.com](http://billdonner.com)
+My main web site is [http://billdonner.com](http://billdonner.com)
 
-#####2017 projects 
+###2017 projects 
 
-These are currently getting tweaked:
+####These are currently getting tweaked:
 
-over the air distros:
+#####over the air distros:
 
 -[sheetcheats9](http://billdonner.com/sc9) musician's sheet music performance
 
@@ -21,7 +21,7 @@ over the air distros:
 
 -[socialmax](http://billdonner.com/tr) social network statistics
 
-web app servers:
+#####web app servers:
 
 -[blukittests](http://billdonner.com) measure bluemix webservice performance
 
@@ -29,4 +29,4 @@ web app servers:
 
 -[iganalserver](http://billdonner.com) analyze instagram statistics
 
-contact: billdonner@mail.com
+> contact: billdonner@mail.com to join adhoc distro  27 Jan 2017
