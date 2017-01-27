@@ -1,9 +1,10 @@
 Bill's GitHub Stuff
 ===============
+![](https://avatars1.githubusercontent.com/u/137947?v=3&s=96)
 
 This is the mini public website at [https://github.com/billdonner](https://github.com/billdonner)
 
-My main web site is [http://billdonner.com](http://billdonner.com)
+Main web site is [http://billdonner.com](http://billdonner.com)
 
 ###2017 projects 
 
@@ -29,4 +30,5 @@ My main web site is [http://billdonner.com](http://billdonner.com)
 
 -[iganalserver](http://billdonner.com) analyze instagram statistics
 
-> contact: billdonner@mail.com to join adhoc distro  27 Jan 2017
+>contact: billdonner@mail.com to join adhoc distro  27 Jan 2017
+
