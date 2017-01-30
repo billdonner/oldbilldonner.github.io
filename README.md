@@ -1,5 +1,5 @@
 
-![](https://avatars1.githubusercontent.com/u/137947?v=3&s=96)
+![](http://billdonner.com/billpics/flipped.png)
 
 Bill's  Stuff
 ===============
