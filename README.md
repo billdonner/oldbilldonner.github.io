@@ -3,8 +3,8 @@
 ===============
 #Bill's GitHub Stuff
 
-This is the mini public websitefor projects at [https://github.com/billdonner](https://github.com/billdonner)
-Main web site is [http://billdonner.com](http://billdonner.com)
+This is the mini public websitefor projects at: [https://github.com/billdonner](https://github.com/billdonner)
+Main web site is: [http://billdonner.com](http://billdonner.com)
 
 ###2017 projects 
 
@@ -30,5 +30,5 @@ These are quick links to current efforts:
 
 -[iganalserver](https://github.com/billdonner/smxserver01) analyze instagram statistics
 
->contact: billdonner@mail.com to join adhoc distro  27 Jan 2017
+>contact: billdonner@gmail.com to join adhoc distro  Feb 2017
 
