@@ -1,6 +1,7 @@
-Bill's GitHub Stuff
 ===============
 ![](https://avatars1.githubusercontent.com/u/137947?v=3&s=96)
+===============
+#Bill's GitHub Stuff
 
 This is the mini public websitefor projects at [https://github.com/billdonner](https://github.com/billdonner)
 Main web site is [http://billdonner.com](http://billdonner.com)
