@@ -1,14 +1,11 @@
 
 ![](https://avatars1.githubusercontent.com/u/137947?v=3&s=96)
 
-#Bill's  Stuff
+Bill's  Stuff
 ===============
 This is the mini website for projects at: [https://github.com/billdonner](https://github.com/billdonner)
 
 Main web site is: [http://billdonner.com](http://billdonner.com)
-
-##Me
-
 
 
 ###2017 projects 
@@ -44,6 +41,8 @@ These are quick links to current efforts:
 - [https://blukit02.mybluemix.net/](https://blukit02.mybluemix.net/)
 
 - [http://www.medcommons.net/](http://www.medcommons.net/)
+
+###Ongoing 
 
 #####personal:
 
