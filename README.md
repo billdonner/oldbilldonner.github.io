@@ -2,18 +2,18 @@ Bill's GitHub Stuff
 ===============
 ![](https://avatars1.githubusercontent.com/u/137947?v=3&s=96)
 
-`This is the mini public websitefor projects at [https://github.com/billdonner](https://github.com/billdonner)
-Main web site is [http://billdonner.com](http://billdonner.com)`
+This is the mini public websitefor projects at [https://github.com/billdonner](https://github.com/billdonner)
+Main web site is [http://billdonner.com](http://billdonner.com)
 
 ###2017 projects 
 
-####These are currently getting tweaked:
+These are quick links to current efforts:
 
 #####over the air distros:
 
 -[sheetcheats9](http://billdonner.com/sc9) musician's sheet music performance
 
--[kaptionator](http://billdonner.com/kaptionz) imessage sticker maker
+-[kaptionator](https://github.com/billdonner/kaptionator) imessage sticker maker
 
 -[ckexplorer](https://github.com/billdonner/ckexplorer) cloudkit<-->tvos bridge
 
