@@ -32,3 +32,4 @@ These are quick links to current efforts:
 
 >contact: billdonner@gmail.com to join adhoc distro  Feb 2017
 
+self: [https://billdonner.github.io/](https://billdonner.github.io/)
