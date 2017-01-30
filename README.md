@@ -50,9 +50,6 @@ These are quick links to current efforts:
 
 #####personal:
 
-- [http://www.facebook.com/pages/Plan-B-Bronxville](http://www.facebook.com/pages/Plan-B-Bronxville)
-
-- [http://s350968899.onlinehome.us/planb/](http://s350968899.onlinehome.us/planb/)
 
 - [https://www.facebook.com/therealbilldonner](https://www.facebook.com/therealbilldonner)
 
