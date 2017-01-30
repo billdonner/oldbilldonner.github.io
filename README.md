@@ -3,8 +3,6 @@
 
 Bill's  Stuff
 ===============
-This is the mini website for projects at: [https://github.com/billdonner](https://github.com/billdonner)
-
 I write Swift code and play rock and roll for fun and sometimes profit a few miles from NYC. 
 
 In 2017 I'm working on Swift App Servers.
@@ -44,6 +42,9 @@ These are quick links to current efforts:
 - [https://blukit02.mybluemix.net/](https://blukit02.mybluemix.net/)
 
 - [http://www.medcommons.net/](http://www.medcommons.net/)
+
+- [https://github.com/billdonner](https://github.com/billdonner)
+
 
 ###Ongoing 
 
