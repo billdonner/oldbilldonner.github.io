@@ -45,6 +45,8 @@ These are quick links to current efforts:
 
 - [http://www.medcommons.net/](http://www.medcommons.net/)
 
+#####personal:
+
 - [http://www.facebook.com/pages/Plan-B-Bronxville](http://www.facebook.com/pages/Plan-B-Bronxville)
 
 - [http://s350968899.onlinehome.us/planb/](http://s350968899.onlinehome.us/planb/)
@@ -54,5 +56,13 @@ These are quick links to current efforts:
 - [https://www.linkedin.com/in/bill-donner-03621](https://www.linkedin.com/in/bill-donner-03621)
 
 - http://billdonner.com/CV2016.pdf](http://billdonner.com/CV2016.pdf)
+
+#####PlanB Band:
+
+
+- [http://s350968899.onlinehome.us/planb/](http://s350968899.onlinehome.us/planb/)
+
+- [http://www.facebook.com/pages/Plan-B-Bronxville](http://www.facebook.com/pages/Plan-B-Bronxville)
+
 
 >contact: billdonner@gmail.com to join adhoc distro  Feb 2017
