@@ -7,7 +7,7 @@ This is the mini website for projects at: [https://github.com/billdonner](https:
 
 I write Swift code and play rock and roll for fun and sometimes profit a few miles from NYC. 
 
-In 2017 I'm working on Swift Web App Servers.
+In 2017 I'm working on Swift App Servers.
 
 It's easiest to reach me via plain old email.
 
@@ -60,7 +60,6 @@ These are quick links to current efforts:
 - [http://billdonner.com/CV2016.pdf](http://billdonner.com/CV2016.pdf)
 
 #####PlanB Band:
-
 
 - [http://s350968899.onlinehome.us/planb/](http://s350968899.onlinehome.us/planb/)
 
