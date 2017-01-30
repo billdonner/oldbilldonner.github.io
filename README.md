@@ -3,7 +3,8 @@
 
 #Bill's GitHub Stuff
 ===============
-This is the mini public websitefor projects at: [https://github.com/billdonner](https://github.com/billdonner)
+This is the mini website for projects at: [https://github.com/billdonner](https://github.com/billdonner)
+
 Main web site is: [http://billdonner.com](http://billdonner.com)
 
 ###2017 projects 
@@ -32,4 +33,4 @@ These are quick links to current efforts:
 
 >contact: billdonner@gmail.com to join adhoc distro  Feb 2017
 
-self: [https://billdonner.github.io/](https://billdonner.github.io/)
+[https://billdonner.github.io/](https://billdonner.github.io/)
