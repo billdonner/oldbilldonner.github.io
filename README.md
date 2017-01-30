@@ -1,11 +1,15 @@
 
 ![](https://avatars1.githubusercontent.com/u/137947?v=3&s=96)
 
-#Bill's GitHub Stuff
+#Bill's  Stuff
 ===============
 This is the mini website for projects at: [https://github.com/billdonner](https://github.com/billdonner)
 
 Main web site is: [http://billdonner.com](http://billdonner.com)
+
+##Me
+
+
 
 ###2017 projects 
 
@@ -38,5 +42,17 @@ These are quick links to current efforts:
 - [https://blukit01.mybluemix.net/](https://blukit01.mybluemix.net/)
 
 - [https://blukit02.mybluemix.net/](https://blukit02.mybluemix.net/)
+
+- [http://www.medcommons.net/](http://www.medcommons.net/)
+
+- [http://www.facebook.com/pages/Plan-B-Bronxville](http://www.facebook.com/pages/Plan-B-Bronxville)
+
+- [http://s350968899.onlinehome.us/planb/](http://s350968899.onlinehome.us/planb/)
+
+- [https://www.facebook.com/therealbilldonner](https://www.facebook.com/therealbilldonner)
+
+- [https://www.linkedin.com/in/bill-donner-03621](https://www.linkedin.com/in/bill-donner-03621)
+
+- http://billdonner.com/CV2016.pdf](http://billdonner.com/CV2016.pdf)
 
 >contact: billdonner@gmail.com to join adhoc distro  Feb 2017
