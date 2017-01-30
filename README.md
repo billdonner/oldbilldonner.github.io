@@ -31,6 +31,12 @@ These are quick links to current efforts:
 
 - [iganalserver](https://github.com/billdonner/smxserver01) analyze instagram statistics
 
->contact: billdonner@gmail.com to join adhoc distro  Feb 2017
+#####links:
 
 [https://billdonner.github.io/](https://billdonner.github.io/)
+
+[https://blukit01.mybluemix.net/]https://blukit01.mybluemix.net/)
+
+[https://blukit02.mybluemix.net/](https://blukit02.mybluemix.net/)
+
+>contact: billdonner@gmail.com to join adhoc distro  Feb 2017
