@@ -24,9 +24,9 @@ Main web site is [http://billdonner.com](http://billdonner.com)
 
 #####web app servers:
 
--[blukittests](http://billdonner.com) measure bluemix webservice performance
+-[blukittests](https://github.com/billdonner/blukit-tests) measure bluemix webservice performance
 
--[inspiraserver](http://billdonner.com) inspirational quotes webservice
+-[famuzserver](https://github.com/billdonner/faymuzserver) inspirational quotes webservice
 
 -[iganalserver](http://billdonner.com) analyze instagram statistics
 
