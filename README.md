@@ -54,7 +54,7 @@ These are quick links to current efforts:
 
 - [https://www.linkedin.com/in/bill-donner-03621](https://www.linkedin.com/in/bill-donner-03621)
 
-- http://billdonner.com/CV2016.pdf](http://billdonner.com/CV2016.pdf)
+- [http://billdonner.com/CV2016.pdf](http://billdonner.com/CV2016.pdf)
 
 #####PlanB Band:
 
