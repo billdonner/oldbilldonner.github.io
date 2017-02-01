@@ -6,8 +6,8 @@ Bill's  Stuff
 I write Swift code and play rock and roll for fun and sometimes profit a few miles from NYC. 
 
 In 2017 I'm working on Swift App Servers.
-
-It's easiest to reach me via plain old email.
+ 
+Contact me at billdonner@gmail.com for code or to book the PlanB band.
 
 ###2017 projects 
 
@@ -48,21 +48,20 @@ These are quick links to current efforts:
 
 ###Ongoing 
 
+I am only on Facebook for band related matters. 
+
 #####personal:
 
+- [facebook](https://www.facebook.com/therealbilldonner)
 
-- [https://www.facebook.com/therealbilldonner](https://www.facebook.com/therealbilldonner)
+- [linkedin](https://www.linkedin.com/in/bill-donner-03621)
 
-- [https://www.linkedin.com/in/bill-donner-03621](https://www.linkedin.com/in/bill-donner-03621)
-
-- [http://billdonner.com/CV2016.pdf](http://billdonner.com/CV2016.pdf)
+- [cv2016](http://billdonner.com/CV2016.pdf)
 
 #####PlanB Band:
 
-- [http://s350968899.onlinehome.us/planb/](http://s350968899.onlinehome.us/planb/)
+- [planB classic rock](http://s350968899.onlinehome.us/planb/)
 
-- [http://www.facebook.com/pages/Plan-B-Bronxville](http://www.facebook.com/pages/Plan-B-Bronxville)
-
-
+- [planB Bronxville](http://www.facebook.com/pages/Plan-B-Bronxville)
 
 >contact: billdonner@gmail.com to join adhoc distro  Feb 2017
