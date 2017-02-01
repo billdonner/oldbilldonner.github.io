@@ -60,7 +60,7 @@ I am only on Facebook for band related matters.
 
 #####PlanB Band:
 
-- [planB classic rock](http://s350968899.onlinehome.us/planb/) - for an instant demo, click the top link, then click on any tune
+- [planB classic rock](http://s350968899.onlinehome.us/planb/) - and [instant demo here:](http://s350968899.onlinehome.us/planb/planBLoft2010/)
 
 - [planB Bronxville](http://www.facebook.com/pages/Plan-B-Bronxville)
 
