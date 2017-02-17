@@ -1,6 +1,8 @@
 
 ![](http://billdonner.com/billpics/flipped.png)
 
+###new daily  [TRUMP-REPORT](https://trump-report.mybluemix.net)
+
 Bill's  Stuff
 ===============
 I write Swift code and play rock and roll for fun and sometimes profit a few miles from NYC. 
@@ -15,13 +17,14 @@ These are quick links to current efforts:
 
 #####over the air distros:
 
+- [trumpreport](http://billdonner.com/tr) inspriation from celebrities
+
 - [sheetcheats9](http://billdonner.com/sc9) musician's sheet music performance
 
 - [kaptionator](https://github.com/billdonner/kaptionator) imessage sticker maker
 
 - [ckexplorer](https://github.com/billdonner/ckexplorer) cloudkit<-->tvos bridge
 
-- [trumpreport](http://billdonner.com/tr) inspriation from celebrities
 
 - [socialmax](https://github.com/billdonner/smxclient01) social network statistics
 
