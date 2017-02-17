@@ -40,9 +40,7 @@ These are quick links to current efforts:
 
 - [https://billdonner.github.io/](https://billdonner.github.io/)
 
-- [https://blukit01.mybluemix.net/](https://blukit01.mybluemix.net/)
-
-- [https://blukit02.mybluemix.net/](https://blukit02.mybluemix.net/)
+- [https://trump-report.mybluemix.net/](https://trump-report.mybluemix.net/)
 
 - [http://www.medcommons.net/](http://www.medcommons.net/)
 
@@ -59,7 +57,7 @@ I am only on Facebook for band related matters.
 
 - [linkedin](https://www.linkedin.com/in/bill-donner-03621)
 
-- [cv2016](http://billdonner.com/CV2016.pdf)
+- [cv2016](http://billdonner.com/CV2016.pdf) resume
 
 #####PlanB Band:
 
