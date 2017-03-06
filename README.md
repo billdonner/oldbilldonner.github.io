@@ -21,7 +21,7 @@ These are quick links to current efforts:
 
 - [sheetcheats9](http://billdonner.com/sc9) musician's sheet music performance
 
-- [kaptionator](https://github.com/billdonner/kaptionator) imessage sticker maker
+- [kaptionator](https://github.com/billdonner/kaptionz) imessage sticker maker
 
 - [ckexplorer](https://github.com/billdonner/ckexplorer) cloudkit<-->tvos bridge
 
@@ -41,6 +41,9 @@ These are quick links to current efforts:
 - [https://billdonner.github.io/](https://billdonner.github.io/)
 
 - [https://trump-report.mybluemix.net/](https://trump-report.mybluemix.net/)
+
+
+- [https://instablu.mybluemix.net/](https://instablu.mybluemix.net/)
 
 - [http://www.medcommons.net/](http://www.medcommons.net/)
 
