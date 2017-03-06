@@ -21,7 +21,7 @@ These are quick links to current efforts:
 
 - [sheetcheats9](http://billdonner.com/sc9) musician's sheet music performance
 
-- [kaptionator](https://github.com/billdonner/kaptionz) imessage sticker maker
+- [kaptionator](https://billdonner.com/kaptionz/) imessage sticker maker
 
 - [ckexplorer](https://github.com/billdonner/ckexplorer) cloudkit<-->tvos bridge
 
