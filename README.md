@@ -1,8 +1,6 @@
 
 ![](http://billdonner.com/billpics/flipped.png)
 
-###new daily  [TRUMP-REPORT](https://trump-report.mybluemix.net)
-
 Bill's  Stuff
 ===============
 I write Swift code and play rock and roll for fun and sometimes profit a few miles from NYC. 
@@ -40,11 +38,6 @@ These are quick links to current efforts:
 
 - [https://billdonner.github.io/](https://billdonner.github.io/)
 
-- [https://trump-report.mybluemix.net/](https://trump-report.mybluemix.net/)
-
-
-- [https://instablu.mybluemix.net/](https://instablu.mybluemix.net/)
-
 - [http://www.medcommons.net/](http://www.medcommons.net/)
 
 - [https://github.com/billdonner](https://github.com/billdonner)
@@ -69,3 +62,5 @@ I am only on Facebook for band related matters.
 - [planB Bronxville](http://www.facebook.com/pages/Plan-B-Bronxville)
 
 >contact: billdonner@gmail.com to join adhoc distro  Feb 2017
+
+![](http://billdonner.com/teacher/AppleTeacherSwiftPlaygrounds_black.png)
