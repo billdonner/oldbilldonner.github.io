@@ -9,11 +9,11 @@ In 2017 I'm working on Swift App Servers.
  
 Contact me at billdonner@gmail.com for code or to book the PlanB band.
 
-###2017 projects 
+### 2017 projects 
 
 These are quick links to current efforts:
 
-#####over the air distros:
+##### over the air distros:
 
 - [trumpreport](http://billdonner.com/tr) inspriation from celebrities
 
@@ -26,7 +26,7 @@ These are quick links to current efforts:
 
 - [socialmax](https://github.com/billdonner/smxclient01) social network statistics
 
-#####web app servers:
+##### web app servers:
 
 - [blukittests](https://github.com/billdonner/blukit-tests) measure bluemix webservice performance
 
@@ -34,7 +34,7 @@ These are quick links to current efforts:
 
 - [iganalserver](https://github.com/billdonner/smxserver01) analyze instagram statistics
 
-#####links:
+##### links:
 
 - [https://billdonner.github.io/](https://billdonner.github.io/)
 
@@ -42,12 +42,9 @@ These are quick links to current efforts:
 
 - [https://github.com/billdonner](https://github.com/billdonner)
 
-
-###Ongoing 
+##### personal:
 
 I am only on Facebook for band related matters. 
-
-#####personal:
 
 - [facebook](https://www.facebook.com/therealbilldonner)
 
@@ -55,7 +52,7 @@ I am only on Facebook for band related matters.
 
 - [cv2016](http://billdonner.com/CV2016.pdf) resume
 
-#####PlanB Band:
+##### PlanB Band:
 
 - [planB classic rock](http://s350968899.onlinehome.us/planb/) - instant demo [here](http://s350968899.onlinehome.us/planb/planBLoft2010/)
 
