@@ -3,11 +3,9 @@
 
 Bill's  Stuff
 ===============
-I write Swift code and play rock and roll for fun and sometimes profit a few miles from NYC. 
-
-In 2017 I'm working on Swift App Servers.
+I write Swift code and play rock and roll a few miles from NYC. These days I'm working on Swift App Servers.
  
-Contact me at billdonner@gmail.com for code or to book the PlanB band.
+Contact me at billdonner@gmail.com for code or to book the PlanB band in Westchester county.
 
 ### 2017 projects 
 
