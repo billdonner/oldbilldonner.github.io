@@ -60,4 +60,4 @@ I am only on Facebook for band related matters.
 
 ![](http://billdonner.com/teacher/AppleTeacherSwiftPlaygrounds_black-60h.png)
 
-<img src=http://billdonner.com/teacher/AppleTeacherSwiftPlaygrounds_black-60h.png>
+<img height=60 src=http://billdonner.com/teacher/AppleTeacherSwiftPlaygrounds_black-large.png>
