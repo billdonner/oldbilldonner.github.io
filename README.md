@@ -61,6 +61,6 @@ I am only on Facebook for band related matters.
 
 - [planB Bronxville](http://www.facebook.com/pages/Plan-B-Bronxville)
 
->contact: billdonner@gmail.com to join adhoc distro  Feb 2017
+>contact: billdonner@gmail.com to join adhoc distro  Jult 2017
 
 ![](http://billdonner.com/teacher/AppleTeacherSwiftPlaygrounds_black.png)
