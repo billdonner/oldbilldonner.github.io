@@ -63,4 +63,4 @@ I am only on Facebook for band related matters.
 
 >contact: billdonner@gmail.com to join adhoc distro  Jult 2017
 
-<img height='35' src='http://billdonner.com/teacher/AppleTeacherSwiftPlaygrounds_black.png'>
+(http://billdonner.com/teacher/AppleTeacherSwiftPlaygrounds_black-60h.png)
