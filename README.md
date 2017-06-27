@@ -40,6 +40,13 @@ These are quick links to current efforts:
 
 - [https://github.com/billdonner](https://github.com/billdonner)
 
+##### PlanB Band:
+
+- [planB classic rock](http://s350968899.onlinehome.us/planb/) - instant demo [here](http://s350968899.onlinehome.us/planb/planBLoft2010/)
+
+- [planB Bronxville](http://www.facebook.com/pages/Plan-B-Bronxville)
+
+
 ##### personal:
 
 I am only on Facebook for band related matters. 
@@ -50,14 +57,6 @@ I am only on Facebook for band related matters.
 
 - [cv2016](http://billdonner.com/CV2016.pdf) resume
 
-##### PlanB Band:
-
-- [planB classic rock](http://s350968899.onlinehome.us/planb/) - instant demo [here](http://s350968899.onlinehome.us/planb/planBLoft2010/)
-
-- [planB Bronxville](http://www.facebook.com/pages/Plan-B-Bronxville)
-
 >contact: billdonner@gmail.com to join adhoc distro  Jult 2017
-
-![](http://billdonner.com/teacher/AppleTeacherSwiftPlaygrounds_black-60h.png)
 
 <img height=60 src=http://billdonner.com/teacher/AppleTeacherSwiftPlaygrounds_black-large.png>
